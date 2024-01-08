@@ -8,3 +8,6 @@ git add .
 git commit -m "hello"
 git push
 ```
+
+![Tux](Monkey-Looking-away.png)
+
